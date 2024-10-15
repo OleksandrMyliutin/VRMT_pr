@@ -1,2 +1,5 @@
 # VRMT_pr
-Virtual resource management technologies practies
+
+Virtual resource management technologies practices.
+
+Hello world!
